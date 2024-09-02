@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on more of the Hard Ware Stuff
 - 📫 How to reach me julianxalessio@gmail.com
 - 😄 Pronouns: He
-- ⚡ Fun fact: i bulid my own PC
+- ⚡ Fun fact: I built my own PC
 
 <!---
 Julianxalessio/Julianxalessio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
